@@ -8,7 +8,7 @@ export default function Home(data) {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Bedtime Story Generator</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 

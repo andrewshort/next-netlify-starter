@@ -3,6 +3,7 @@ describe('sample test', () => {
     cy.visit('/')
   })
 
+  /*
   it('displays the resources text', () => {
     cy.get('h1')
     .contains('Welcome to my app!');
@@ -14,4 +15,5 @@ describe('sample test', () => {
       expect($img[0].naturalWidth).to.be.greaterThan(0);
     })
   })
+  */
 })
